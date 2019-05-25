@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">pjportfolio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about">"I’m a passionate developer who is an avid student of programming in multiple languages, I don’t limit myself to comfortable development languages hence I keep on researching and improving myself by learning new technology advances. I can work both independently and in a team. I take pride in my work, believe in hard work and smart decisions to produce quality results in projects."</string>
+    <string name="skills">*css "\n"*
+sass and scss"\n"*
+php "\n"*
+html"\n"*
+java"\n"*
+jquery"\n"*
+sql"\n"*
+bootstrap
+</string>
+    <string name="work">"COMPANY NAME: BIZM8
+POSITION: Web developer
+DATES OF EMPLOYMENT: August 2017 -Current (Contracted per project)
+KEY RESPONSIBILITIES (5-10 max):
+RESPONSIBILITIES
+ -Develop websites
+-Build features and processes for both large and small-scale websites
+-Maintain coding consistency throughout the website lifecycle
+-Work with marketing team integration of data
+
+Methodology used
+Agile development
+
+
+Tools used:
+-Sublime Text
+-JetBrains phpStorm
+-Postman for testing phpscript
+-MyphpAdmin
+-adobe photoshop
+-adobe illustrator
+- WordPress
+
+languages used:
+-css
+-sass and scss
+-php
+-html
+-java
+-jquery
+-sql
+-bootstrap
+
+Artifects used:
+-Drawing requirements documents
+-drawing an as-is and to-be system
+-create flow chart diagrams using ERD’s
+-write functional and non functional requirements
+-test applications after being developed
+
+REASON FOR LEAVING: Seeking for a more challenging environment and consistent projects coming my way.
+
+
+
+"</string>
+
+    <string name="contact">*Tel :0732820258/0722620366 "\n"*Email :puseletsomaraba@gmail.com </string>
+
+
+
+</resources>
